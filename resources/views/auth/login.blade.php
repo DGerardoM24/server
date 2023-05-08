@@ -1,6 +1,8 @@
 @extends('layouts.app')
 
 @section('content')
+    <link href="https://cdn.datatables.net/1.12.1/css/dataTables.bootstrap5.min.css" rel="stylesheet">
+    <link href="http://cdn.bootcss.com/toastr.js/latest/css/toastr.min.css" rel="stylesheet" >
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">

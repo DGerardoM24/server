@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
+        <link href="https://cdn.datatables.net/1.12.1/css/dataTables.bootstrap5.min.css" rel="stylesheet">
+        <link href="http://cdn.bootcss.com/toastr.js/latest/css/toastr.min.css" rel="stylesheet" >
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
